@@ -1,0 +1,10 @@
+C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\bin\Debug\QzoneAssistant.exe.config
+C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\bin\Debug\QzoneAssistant.exe
+C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\bin\Debug\QzoneAssistant.pdb
+C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\obj\Debug\QzoneSpider.SettingsForm.resources
+C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\obj\Debug\QzoneSpider.MainForm.resources
+C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\obj\Debug\QzoneAssistant.Properties.Resources.resources
+C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\obj\Debug\QzoneSpider.UserControl1.resources
+C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\obj\Debug\QzoneAssistant.csproj.GenerateResource.cache
+C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\obj\Debug\QzoneAssistant.exe
+C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\obj\Debug\QzoneAssistant.pdb
