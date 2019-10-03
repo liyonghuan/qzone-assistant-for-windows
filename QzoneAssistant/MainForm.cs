@@ -111,7 +111,8 @@ namespace QzoneSpider
                         Console.WriteLine(E.StackTrace);
                     }
                 } while (i < 5);
-                
+
+                Thread.Sleep(1000);
                 if (albumList == null || albumList.Length < Constants.PageNum)
                 {
                     break;
@@ -240,6 +241,7 @@ namespace QzoneSpider
 
         public void TipsPhotoDownload(string tips)
         {
+            Application.DoEvents();
             StatusLabelDownload.Text = tips;
         }
 

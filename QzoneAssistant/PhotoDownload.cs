@@ -34,6 +34,8 @@ namespace QzoneSpider
 
         private void Download()
         {
+            Dictionary.Clear();
+
             TipsPhotoDownloadDelegate f = new TipsPhotoDownloadDelegate(MainForm.TipsPhotoDownload);
             MainForm.Invoke(f, new object[] { "正在采集相册数据..." });
             foreach (AlbumListModeSort Album in Albums)
@@ -90,6 +92,8 @@ namespace QzoneSpider
                             Console.WriteLine(E.StackTrace);
                         }
                     } while (i < 5);
+
+                    Thread.Sleep(1000);
                     if (photoList == null || photoList.Length < Constants.PageNum)
                     {
                         break;

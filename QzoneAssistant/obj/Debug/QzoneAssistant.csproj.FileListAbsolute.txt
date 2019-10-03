@@ -8,3 +8,4 @@ C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\obj\Debug\
 C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\obj\Debug\QzoneAssistant.csproj.GenerateResource.cache
 C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\obj\Debug\QzoneAssistant.exe
 C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\obj\Debug\QzoneAssistant.pdb
+C:\Users\Klavor\Workspace\VirsualStudio\QzoneAssistant\QzoneAssistant\obj\Debug\QzoneAssistant.csprojAssemblyReference.cache
